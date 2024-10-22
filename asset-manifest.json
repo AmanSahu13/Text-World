@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-World/static/css/main.f855e6bc.css",
+    "main.js": "/Text-World/static/js/main.af47e1c9.js",
+    "static/js/453.eebb8bdc.chunk.js": "/Text-World/static/js/453.eebb8bdc.chunk.js",
+    "index.html": "/Text-World/index.html",
+    "main.f855e6bc.css.map": "/Text-World/static/css/main.f855e6bc.css.map",
+    "main.af47e1c9.js.map": "/Text-World/static/js/main.af47e1c9.js.map",
+    "453.eebb8bdc.chunk.js.map": "/Text-World/static/js/453.eebb8bdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.af47e1c9.js"
+  ]
+}
