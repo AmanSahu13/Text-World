@@ -12,13 +12,14 @@
 - **Text Preview**: Instantly preview changes made to your text.
 - **Text Analysis**: View word count and character count in real-time.
 - **Dark and Light Mode**: Toggle between dark and light modes to suit your preference.
+# 
+## Live Demonstration -> https://amansahu13.github.io/Text-World/ 
 
 ## Demo
+![Screenshot 2024-11-06 190838](https://github.com/user-attachments/assets/2aeb1124-40c0-46de-a384-68c428d7791a)
+![Screenshot 2024-11-06 190853](https://github.com/user-attachments/assets/1b958a6b-650b-4de6-ab2c-28935b8dc776)
 
-![Text World Screenshot](https://your-image-url.com) <!-- Add a screenshot of your app here -->
-
-# Live Demonstration -> https://amansahu13.github.io/Text-World/ 
-
+#
 ## Installation
 
 1. Clone the repository to your local machine:
